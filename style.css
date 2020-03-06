@@ -26,6 +26,55 @@
   margin: 5px 50px;
 }
 
+.selector {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  height: fit-content;
+}
+
+.color {
+  height: 10px;
+  width: 100px;
+  margin: 0px 11px;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#red {
+  background-color: red;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#reset {
+  background-color: whitesmoke;
+}
+
+#cyan {
+  background-color: cyan;
+}
+
 .tileContainer {
   display: flex;
   flex-direction: column;
