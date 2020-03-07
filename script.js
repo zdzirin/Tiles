@@ -159,8 +159,8 @@ document.getElementById("container1").append(tileContainer);
 // function to change tile color
 
 function changeTileColor(tile) {
-  if (curr == "whitesmoke") {
-    tile.style.background = color;
+  if (curr == "reset") {
+    tile.style.background = "whitesmoke";
   } else {
     let colorList = colorDictionary[curr];
     let i = colorList.length;
