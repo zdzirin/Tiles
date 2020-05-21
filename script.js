@@ -23,7 +23,7 @@ var green = [
   "mediumaquamarine",
   "mediumseagreen",
   "green",
-  "olive"
+  "olive",
 ];
 
 var pink = [
@@ -32,7 +32,7 @@ var pink = [
   "hotpink",
   "deeppink",
   "palevioletred",
-  "mediumvioletred"
+  "mediumvioletred",
 ];
 
 var red = [
@@ -45,7 +45,7 @@ var red = [
   "firebrick",
   "darkred",
   "red",
-  "maroon"
+  "maroon",
 ];
 
 var orange = ["orangered", "tomato", "coral", "darkorange", "orange"];
@@ -61,7 +61,7 @@ var yellow = [
   "palegoldenrod",
   "khaki",
   "darkkhaki",
-  "gold"
+  "gold",
 ];
 
 var cyan = [
@@ -76,7 +76,7 @@ var cyan = [
   "lightseagreen",
   "cadetblue",
   "darkcyan",
-  "teal"
+  "teal",
 ];
 
 var blue = [
@@ -94,7 +94,7 @@ var blue = [
   "mediumblue",
   "darkblue",
   "navy",
-  "midnightblue"
+  "midnightblue",
 ];
 
 var purple = [
@@ -115,7 +115,7 @@ var purple = [
   "indigo",
   "darkslateblue",
   "slateblue",
-  "mediumslateblue"
+  "mediumslateblue",
 ];
 
 // master dictionary of colors
@@ -127,7 +127,7 @@ var colorDictionary = {
   cyan: cyan,
   yellow: yellow,
   orange: orange,
-  pink: pink
+  pink: pink,
 };
 
 var curr = "green";
